@@ -1,3 +1,5 @@
+![machine-learning-1](https://user-images.githubusercontent.com/109236841/208771892-fb0b513e-7f83-4960-a933-570f8503f9e5.jpg)
+
 Here I covered both Supervised and Unsupervised Learning Techniques with Practical Implementation. Everything from scratch and I solved a lot of different problems with different Machine Learning techniques . 
 The Topic that are covered in this repository are:
 
