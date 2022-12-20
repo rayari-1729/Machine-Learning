@@ -3,7 +3,7 @@ The Topic that are covered in this repository are:
 
   **Supervised Machine Learning**
   
-          i. Classfication
+         i. Classfication
           
                      a) Naive Bayes Classifier(NB)
                      
